@@ -5,5 +5,4 @@ Smart garage doors powered by IoT offer a swift solution to the inconvenience of
 ![door 3](https://github.com/gunthamukasada16/Smart-Garage-Door-using-IoT/assets/161690272/ab52a7f9-d68d-4278-9f0d-c4d7907e6225)
 ![door 4](https://github.com/gunthamukasada16/Smart-Garage-Door-using-IoT/assets/161690272/d5b6e4fd-678e-41eb-9260-de5917a50c95)
 ![door 5](https://github.com/gunthamukasada16/Smart-Garage-Door-using-IoT/assets/161690272/b8a0d102-acfa-4573-90b8-aef75e9f21e8)
-[pan.pdf](https://github.com/gunthamukasada16/Smart-Garage-Door-using-IoT/files/14692371/pan.pdf)
 ![door 6](https://github.com/gunthamukasada16/Smart-Garage-Door-using-IoT/assets/161690272/fed019f4-9c6c-497d-97fc-d89c4c9e003a)
